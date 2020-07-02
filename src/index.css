@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@media (min-width: 1025px) and (max-width: 1580px) {
+  
+  .mobileView {
+    margin-left: 30%;
+    margin-right: 30%;
+    
+  }
+  
+}
